@@ -1,2 +1,2 @@
-pontos_perdidos = 3/2
+pontos_perdidos = 9/4
 print(pontos_perdidos)
